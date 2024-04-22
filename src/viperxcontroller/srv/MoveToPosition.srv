@@ -1,0 +1,7 @@
+# Request
+string positions
+string orientations
+---
+# Response
+bool success
+string message
